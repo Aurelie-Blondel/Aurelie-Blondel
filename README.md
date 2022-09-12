@@ -8,11 +8,11 @@
 
 - Lang ✨
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aurelie-Blondel&langs_count=10&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aurelie-Kamgang&langs_count=10&theme=tokyonight)
 
 
 <!--
-**Aurelie-Blondel/Aurelie-Blondel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aurelie-Kamagang/Aurelie-Kamagang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
