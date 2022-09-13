@@ -2,7 +2,7 @@
 
 - Stats ⚡
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aurelie-Blondel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=ffff)
+![Aurelie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aurelie-Kamgang&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=ffff)
 
 - Repos 🔭
 
@@ -12,7 +12,7 @@
 
 
 <!--
-**Aurelie-Kamagang/Aurelie-Kamagang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aurelie-Kamgang/Aurelie-Kamgang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
