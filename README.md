@@ -6,7 +6,7 @@
 
 - Repos 🔭
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aurelie-Kamgang&repo=/introduction-docker/student-list&show_owner=true)](https://github.com/Aurelie-Kamgang/introduction-docker/student-list)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aurelie-Kamgang&repo=student-list&show_owner=true)](https://github.com/Aurelie-Kamgang/introduction-docker/student-list)
 
 - Lang ✨
 
