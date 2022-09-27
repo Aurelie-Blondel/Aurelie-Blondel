@@ -6,6 +6,8 @@
 
 - Repos 🔭
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aurelie-Kamgang&repo=student-list&show_owner=true)](https://github.com/Aurelie-Kamgang/introduction-docker/student-list)
+
 - Lang ✨
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aurelie-Kamgang&langs_count=10&theme=tokyonight)
