@@ -8,6 +8,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aurelie-Kamgang&repo=student-list-project&show_owner=true)](https://github.com/Aurelie-Kamgang/student-list-project )
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aurelie-Kamgang&repo=WordPress-Kubernetes&show_owner=true)](https://github.com/Aurelie-Kamgang/WordPress-Kubernetes)
+
 - Lang ✨
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aurelie-Kamgang&langs_count=10&theme=tokyonight)
