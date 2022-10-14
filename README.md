@@ -6,6 +6,8 @@
 
 - Repos 🔭
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aurelie-Kamgang&repo=student-list-project&show_owner=true)](https://github.com/Aurelie-Kamgang/ic-group-project
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aurelie-Kamgang&repo=student-list-project&show_owner=true)](https://github.com/Aurelie-Kamgang/student-list-project )
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aurelie-Kamgang&repo=WordPress-Kubernetes&show_owner=true)](https://github.com/Aurelie-Kamgang/WordPress-Kubernetes)
